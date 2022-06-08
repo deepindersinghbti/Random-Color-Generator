@@ -1,0 +1,49 @@
+    body {
+        text-align: center;
+    }
+
+    button {
+        width: 270px;
+        height: 40px;
+        text-align: center;
+        border-radius: 170px;
+        font-size: 20px;
+    }
+
+    h1 {
+        font-family: Comic Sans MS;
+        color: orange;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 25px;
+        color: aqua;
+        font-family: Comic Sans MS;
+    }
+
+    .previewBox {
+        /* background-color: aqua; */
+        width: 150px;
+        height: 50px;
+        border: 5px solid white;
+
+        /* Change the x-Coordinate */
+        position: absolute;
+        top: 35%;
+        left: 45%;
+
+
+    }
+
+    .generateBt {
+        position: absolute;
+        /* top: 50%; */
+        left: 40%;
+    }
+
+    .copyBt {
+        position: absolute;
+        top: 50%;
+        left: 40%;
+    }
